@@ -1,4 +1,4 @@
 # Hello World!
 
-my name is abiduddin
-Click [here.](https://abiduddin.github.io/)
+### My name is Abid uddin
+Follow me! Click [here.](https://github.com/Abiduddin)
